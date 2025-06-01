@@ -1,1 +1,1 @@
-# Houdini Template Manager ## Django Powered
+# Houdini Template Manager <sub> Django Powered</sub>
