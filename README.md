@@ -11,6 +11,11 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 - Html, CSS, JS
 - Apache HTTP Server
 
+## Houdini Template Publisher
+
+- houdini_template_publisher folder contains modules to execute PySide2 based publisher from Houdini
+- pyside2_with_qwwebview.py houdini template manager configured in QWebEngineView to executed from Houdini 
+
 ## Model ERD Diagram
 
 - bundles_tag table is many-to-many relation table for connecting single bundle_id has multiple tags
@@ -19,6 +24,10 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 
 ## How To Run 
 [have to write]
+
+## How Initial Tables Created  
+[have to write]
+
 
 ## Apache Deployments [Windows]
 
