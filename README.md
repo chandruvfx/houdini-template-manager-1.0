@@ -13,7 +13,7 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 - PySide2
 - PostgreSQL
 - Django
-- Html, CSS, JS <img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="40px"> <img src="https://github.com/user-attachments/assets/880b1e30-11bf-4c27-82d3-18cec9694717" width="40px"> <img src="https://github.com/user-attachments/assets/445b01db-9a75-4e03-9806-8a838743c98e" width="40px">
+- Html, CSS, JS <sub><img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="25px"> <img src="https://github.com/user-attachments/assets/880b1e30-11bf-4c27-82d3-18cec9694717" width="25px"> <img src="https://github.com/user-attachments/assets/445b01db-9a75-4e03-9806-8a838743c98e" width="25px"></sub>
 
 
 - Apache HTTP Server
