@@ -38,7 +38,7 @@ LoadFile "C:/Python39/python39.dll"
 LoadModule wsgi_module "D:\django_projects\Lib\site-packages\mod_wsgi\server\mod_wsgi.cp39-win_amd64.pyd"
 ```
 
--C:\Apache24\conf\extra\httpd-vhosts.conf.  Write 👇
+- C:\Apache24\conf\extra\httpd-vhosts.conf.  Write 👇
 
 ```
 <VirtualHost 127.0.0.10:80>
