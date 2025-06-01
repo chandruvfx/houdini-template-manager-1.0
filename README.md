@@ -1,6 +1,6 @@
 # Houdini Template Manager <sub>[Django Powered]</sub>
 
-<img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="100px">
+<img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="40px">
 
 A Web based application with diverse features to maintain hipfiles and nodes of houdini as bundles 🎁. 
 hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respectively
