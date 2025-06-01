@@ -11,7 +11,7 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 - Html, CSS, JS
 - Apache HTTP Server
 
-## ERD Diagram
+## Model ERD Diagram
 
 - bundles_tag table is many-to-many relation table for connecting single bundle_id has multiple tags
 
