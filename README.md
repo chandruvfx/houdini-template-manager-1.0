@@ -1,8 +1,15 @@
 # Houdini Template Manager <sub> Django Powered</sub>
 
-A Web based application with several features to maintain hipfiles and nodes of houdini as bundles. 
-hip file and snippet files saves as ***.hip*** and ***.snip*** respectively
+A Web based application with diverse features to maintain hipfiles and nodes of houdini as bundles 🎁. 
+hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respectively
 
+## Tech Stack
+- Houdini
+- PySide2
+- PostgreSQL
+- Django
+- Html, CSS, JS
+- Apache HTTP Server
 
 Demo Link Below 👇
 
