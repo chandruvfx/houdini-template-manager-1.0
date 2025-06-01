@@ -20,15 +20,15 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 ## How To Run 
 [have to write]
 
-## Apache Deployments
+## Apache Deployments [Windows]
 
 - Goto C:\Windows\System32\drivers\etc
-Open hosts file
+Open hosts file. Write 👇
 ```
 127.0.0.10 houdini-template-manager.com
 ```
 
-- C:\Apache24\conf\httpd.conf
+- C:\Apache24\conf\httpd.conf.  Write 👇
 ```
 Listen 127.0.0.10:80
 
@@ -38,7 +38,7 @@ LoadFile "C:/Python39/python39.dll"
 LoadModule wsgi_module "D:\django_projects\Lib\site-packages\mod_wsgi\server\mod_wsgi.cp39-win_amd64.pyd"
 ```
 
--C:\Apache24\conf\extra\httpd-vhosts.conf
+-C:\Apache24\conf\extra\httpd-vhosts.conf.  Write 👇
 
 ```
 <VirtualHost 127.0.0.10:80>
@@ -72,7 +72,7 @@ LoadModule wsgi_module "D:\django_projects\Lib\site-packages\mod_wsgi\server\mod
 </VirtualHost>
 ```
 
-- Restart apache server
+- Restart apache server. By running in CMD
 
 ```
 httpd -k restart
