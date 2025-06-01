@@ -1,6 +1,8 @@
 # Houdini Template Manager <sub>[Django Powered]</sub>
 
-<img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="45px"> <img src="https://github.com/user-attachments/assets/880b1e30-11bf-4c27-82d3-18cec9694717" width="45px"> <img src="https://github.com/user-attachments/assets/445b01db-9a75-4e03-9806-8a838743c98e" width="45px"> <img src="https://github.com/user-attachments/assets/ac633679-febc-4bf3-b8db-2bcabce0067d" width="45px"> <img src="https://github.com/user-attachments/assets/38ae5696-9a0c-406f-a411-5244e99a81f6" width="45px">
+<img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="45px"> <img src="https://github.com/user-attachments/assets/880b1e30-11bf-4c27-82d3-18cec9694717" width="45px"> <img src="https://github.com/user-attachments/assets/445b01db-9a75-4e03-9806-8a838743c98e" width="45px"> <img src="https://github.com/user-attachments/assets/ac633679-febc-4bf3-b8db-2bcabce0067d" width="45px"> <img src="https://github.com/user-attachments/assets/38ae5696-9a0c-406f-a411-5244e99a81f6" width="45px"> <img src="https://github.com/user-attachments/assets/39427c7e-7bcb-4a0b-87e7-50a8188b3aa1" width="45px"> <img src="https://github.com/user-attachments/assets/6399fa00-0e1a-4d36-a9f2-3d0689812a4e" width="45px">
+
+
 
 
 A Web based application with diverse features to maintain hipfiles and nodes of houdini as bundles 🎁. 
