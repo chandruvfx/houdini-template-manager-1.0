@@ -1,4 +1,4 @@
-                                                            # Houdini Template Manager <sub>[Django Powered]</sub>
+#                                                                                 Houdini Template Manager <sub>[Django Powered]</sub>
 
 
 A Web based application with diverse features to maintain hipfiles and nodes of houdini as bundles 🎁. 
