@@ -1,1 +1,1 @@
-# houdini-template-manager
+# Houdini Template Manager ## Django Powered
