@@ -13,7 +13,10 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 
 ## ERD Diagram
 
+- bundles_tag table is many-to-many relation table for connecting single bundle_id has multiple tags
+
 ![image](https://github.com/user-attachments/assets/872f6541-f589-4237-83ad-903dc7d87047)
+
 
 
 Demo Link Below 👇
