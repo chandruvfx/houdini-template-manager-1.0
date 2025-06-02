@@ -2,9 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/ff9a257a-c48c-4839-8c60-9db42d36bffe" width="45px"> <img src="https://github.com/user-attachments/assets/880b1e30-11bf-4c27-82d3-18cec9694717" width="45px"> <img src="https://github.com/user-attachments/assets/445b01db-9a75-4e03-9806-8a838743c98e" width="45px"> <img src="https://github.com/user-attachments/assets/ac633679-febc-4bf3-b8db-2bcabce0067d" width="45px"> <img src="https://github.com/user-attachments/assets/38ae5696-9a0c-406f-a411-5244e99a81f6" width="45px"> <img src="https://github.com/user-attachments/assets/84d135ee-8045-4ed5-aeeb-b127156155cb" width="45px"> <img src="https://github.com/user-attachments/assets/6399fa00-0e1a-4d36-a9f2-3d0689812a4e" width="45px">
 
-
-
-
 A Web based application with diverse features to maintain hipfiles and nodes of houdini as bundles 🎁. 
 hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respectively
 
@@ -26,7 +23,8 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 
 - bundles_tag table is many-to-many relation table for connecting single bundle_id has multiple tags
 - Database tables created manually and migrated using ```python .\manage.py inspectdb > models.py```
-
+- Bundles models class M-to-M created manually ```tag = models.ManyToManyField('Tags', through='BundlesTag')```
+  
 ![image](https://github.com/user-attachments/assets/872f6541-f589-4237-83ad-903dc7d87047)
 
 
