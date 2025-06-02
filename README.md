@@ -25,11 +25,10 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 ## Model ERD Diagram
 
 - bundles_tag table is many-to-many relation table for connecting single bundle_id has multiple tags
+- Database tables created manually and migrated using ```python .\manage.py inspectdb > models.py```
 
 ![image](https://github.com/user-attachments/assets/872f6541-f589-4237-83ad-903dc7d87047)
 
-## How To Run 
-[have to write]
 
 ## How Initial Tables Created  
 [have to write]
