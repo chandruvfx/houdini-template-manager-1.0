@@ -19,6 +19,10 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 - Apache HTTP Server
 
 
+## How Initial Tables Created 
+
+Check tables.sql file
+
 ## Model ERD Diagram
 
 ### Notes:
@@ -27,10 +31,6 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 - Bundles models class M-to-M created manually ```tag = models.ManyToManyField('Tags', through='BundlesTag')```
   
 ![image](https://github.com/user-attachments/assets/872f6541-f589-4237-83ad-903dc7d87047)
-
-
-## How Initial Tables Created  
-[have to write]
 
 
 ## Apache Deployments [Windows]
