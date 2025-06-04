@@ -27,9 +27,9 @@ Check tables.sql file
 
 
 ```
-└── houdini_bundles(backup)/
+└── houdini_bundles/
     ├── swirl_forces/
-    │   └── v002/
+    │   └── v001/
     │       ├── snip/
     │       │   └── swirl_forces.snip
     │       └── img/
