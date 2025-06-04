@@ -23,6 +23,44 @@ hip file and snippet files saves as ⬇️ ***.hip*** and ***.snip*** respective
 
 Check tables.sql file
 
+## Bundles Folder Structure
+
+
+```
+└── houdini_bundles(backup)/
+    ├── swirl_forces/
+    │   └── v002/
+    │       ├── snip/
+    │       │   └── swirl_forces.snip
+    │       └── img/
+    │           └── swirl_forces.jpg
+    ├── flames/
+    │   ├── torch_fire/
+    │   │   ├── v002/
+    │   │   │   └── hip/
+    │   │   │       └── torchfire.hip.txt
+            └── img/
+    │   │   └── v001/
+    │   │       └── hip/
+    │   │           └── torchfire.hip.txt
+    │           └── img/
+    │   └── flames_big/
+    │       └── v001/
+    │           └── hip/
+    │               └── flames_big.hip.txt
+    │           └── img/
+    ├── explosion/
+    │   └── dust_explosion/
+    │       └── v001/
+    │           ├── img/
+    │           │   ├── dust_explosion_001.jpg
+    │           │   ....
+    │           │   └── dust_explosion_048.jpg
+    │           └── hip/
+    │               └── dust_explosion.hip.txt
+```
+
+
 ## Model ERD Diagram
 
 ### Notes:
