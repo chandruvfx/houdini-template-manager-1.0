@@ -38,26 +38,26 @@ Check tables.sql file
     │   ├── torch_fire/
     │   │   ├── v002/
     │   │   │   └── hip/
-    │   │   │       └── torchfire.hip.txt
+    │   │   │       └── torchfire.hip
             └── img/
     │   │   └── v001/
     │   │       └── hip/
-    │   │           └── torchfire.hip.txt
+    │   │           └── torchfire.hip
     │           └── img/
     │   └── flames_big/
     │       └── v001/
     │           └── hip/
-    │               └── flames_big.hip.txt
+    │               └── flames_big.hip
     │           └── img/
     ├── explosion/
     │   └── dust_explosion/
     │       └── v001/
     │           ├── img/
     │           │   ├── dust_explosion_001.jpg
-    │           │   ....
+    │           │   ....(sequence)
     │           │   └── dust_explosion_048.jpg
     │           └── hip/
-    │               └── dust_explosion.hip.txt
+    │               └── dust_explosion.hip
 ```
 
 
